@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "AppCommand.h"
 
 #import "Operation.h"
 #import "ViewJSONSerializer.h"
